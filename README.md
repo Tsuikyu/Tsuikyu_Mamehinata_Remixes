@@ -16,7 +16,7 @@ Album
 ### Disc 1 Mamehinata:
 
 - **Track 1:** Mamehinata (SomeOn3 Remix)  
-- **Track 1:** Mamehinata (amasato_mochi Remix) 
+- **Track 2:** Mamehinata (amasato_mochi Remix) 
 
 ### Disc 2 Kipfel:
 
