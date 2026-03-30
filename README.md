@@ -22,6 +22,12 @@ Album
 ### Disc 2 Kipfel:
 
 - **Track 1:** Kipfel
+- **Track 2:** Kipfel (TSM Remix)
+
+### Disc 3 Usasaki:
+
+- **Track 1:** Usasaki
+- **Track 2:** Usasaki (兎埼あるな Remix)
 
 ---
 
