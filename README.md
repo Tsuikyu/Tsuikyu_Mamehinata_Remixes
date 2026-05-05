@@ -22,7 +22,8 @@ Album
 ### Disc 2 Kipfel:
 
 - **Track 1:** Kipfel
-- **Track 2:** Kipfel (TSM Remix)
+- **Track 2:** Kipfel (TSK Remix)
+- **Track 3:** MONTAGEM KIPFEL (hirokunboy Remix)
 
 ### Disc 3 Usasaki:
 
